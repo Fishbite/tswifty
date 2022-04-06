@@ -8,6 +8,10 @@ main {
   padding: 2rem;
 }
 
+header {
+  padding-bottom: 2rem;
+}
+
 img {
   max-width: 100%;
   border: 4px solid #443333;
